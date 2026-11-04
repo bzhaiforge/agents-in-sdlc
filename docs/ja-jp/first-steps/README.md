@@ -15,17 +15,17 @@ lastUpdated: 2026-09-28
 
 ## ワークショップ
 
-### [GitHub Copilot app を体験する][copilot-app]
+### [GitHub Copilot app ツアー][copilot-app]
 
-空のフォルダーからカラフルな Space Quiz を構築し、開発の流れを体験します。作成、改善、テスト、プロジェクトの指示の記録、公開、作業の計画、Issue の実装、プルリクエストのレビューとマージ、繰り返し作業の自動化を行い、Canvas 拡張機能も試します。
+空のフォルダーからカラフルな Space Quiz を構築し、最初のプロンプトからレビュー済みのプルリクエストと公開済みの GitHub Pages サイトまで、開発の流れを体験します。Canvas ワークフローも確認します。
 
 ### [GitHub Copilot CLI のはじめの一歩][copilot-cli]
 
-ターミナル中心の開発の流れを学びます。Git に変更を記録する前に構築と差分のレビューを行い、worktree でセッションを並行して実行し、編集前に計画を立て、コンテキストを管理します。その後、シェルを離れずにプルリクエストを作成してマージし、作業を委任します。
+ターミナルからカラフルな Space Quiz を構築します。Git に変更を記録する前に差分を確認し、セッションを並行して実行し、編集前に計画を立てます。その後、シェルを離れずにプルリクエストを作成してマージします。
 
 ### [Visual Studio Code のはじめの一歩][vscode]
 
-エディター中心の開発の流れを体験します。ワークスペースで構築し、統合ブラウザーから要素を改善し、コンテキストを確認して、Git に変更を記録する前にテストします。編集前に計画を立て、VS Code を離れずに GitHub のツールで Issue、プルリクエスト、クラウドセッションを扱います。
+Visual Studio Code でカラフルな Space Quiz を構築します。ワークスペースでの構築、コンテキストの確認、Git に変更を記録する前のテスト、編集前の計画を体験します。VS Code を離れずに GitHub のツールで Issue、プルリクエスト、クラウドセッションを扱います。
 
 [james]: https://github.com/jamesmontemagno
 [source-lab]: https://github.com/jamesmontemagno/first-steps-with-github-copilot
